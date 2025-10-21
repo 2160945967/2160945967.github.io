@@ -1,0 +1,14 @@
+# Ignore unrelated helper project (large)
+English-words-pronunciation-mp3-audio-download-master/
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+
+# Common build outputs (if any)
+dist/
+build/
+node_modules/
+venv/
